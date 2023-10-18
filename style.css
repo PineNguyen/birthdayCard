@@ -198,3 +198,11 @@ body {
     outline-color: #333;
     outline-style: dotted;
   }
+
+  #preloader {
+    background: #fff url(img/ferrisWheel.gif) no-repeat center center;
+    height: 120%;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+  }
